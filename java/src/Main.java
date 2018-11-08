@@ -39,12 +39,12 @@ class TestPrint
         }
     }
 
-    /**
-     * waitForSometime.
-     *
-     * @param time
-     */
-    private static void waitForSometime(int time)
+    private static void waitForSometime(int time
+                                        /**
+                                         * waitForSometime.
+                                         *
+                                         * @param time
+                                         */)
     {
         try
         {
