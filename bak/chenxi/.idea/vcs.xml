@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/h5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pingtai" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todolist/api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todolist/master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todolist/wechat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wechat" vcs="Git" />
+  </component>
+</project>

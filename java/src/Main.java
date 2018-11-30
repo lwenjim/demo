@@ -1,23 +1,6 @@
-
-
 public class Main
 {
     public static void main(String[] args) throws InterruptedException
-    {
-        TestPrint.main();
-    }
-}
-
-/**
- * @author qefee
- */
-class TestPrint
-{
-
-    /**
-     * @param args
-     */
-    public static void main()
     {
         for (int i = 0; i < 100; i++)
         {
@@ -39,12 +22,7 @@ class TestPrint
         }
     }
 
-    private static void waitForSometime(int time
-                                        /**
-                                         * waitForSometime.
-                                         *
-                                         * @param time
-                                         */)
+    private static void waitForSometime(int time)
     {
         try
         {
